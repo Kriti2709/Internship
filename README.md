@@ -1,4 +1,5 @@
 Mini Leave Management System 
+
 ■ Overview
 This project is a console-based Mini Leave Management System for a startup with 50 employees.
 It allows HR to add employees, apply/approve/reject leaves, and track leave balances.
